@@ -6,3 +6,5 @@
 * Docs: https://minitorch.github.io/
 
 * Overview: https://minitorch.github.io/module0.html
+
+<img src="image.png" width="75%px">
